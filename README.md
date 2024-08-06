@@ -1,5 +1,8 @@
 # Chat-with-pdf
 
+**This is the link for the a demo video that illustrates the application :**
+
+      https://drive.google.com/file/d/1wfNVIYmZuYNJHTe9ZWqihu6pVPxX0Zvy/view?usp=sharing
 
 1.Setup Instructions for Eden AI API Key, Eden AI :
    
